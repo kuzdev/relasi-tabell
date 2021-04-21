@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-21T13:17:43.796Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="EzYbn6qmpoabfomkteoo" version="14.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-21T13:21:16.014Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="obFUP4cm9-kRWB3cc2l3" version="14.6.3" type="github">
   <diagram name="Page-1" id="2ca16b54-16f6-2749-3443-fa8db7711227">
     <mxGraphModel dx="312" dy="218" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -29,7 +29,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2ed32ef02a7f4228-8" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;produk&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;id_produk&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;nama_produk&lt;br&gt;id_stok&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK&lt;/td&gt;&lt;td&gt;id_kategori&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;foto_produk&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;harga&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;diskon&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;deskripsi&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;berat_produk&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
-          <mxGeometry x="470" y="290" width="130" height="170" as="geometry" />
+          <mxGeometry x="470" y="290" width="130" height="180" as="geometry" />
         </mxCell>
         <mxCell id="2ed32ef02a7f4228-10" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;member&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;id_member&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;nama_member&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;username_member&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;email&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;password_member&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;telp&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;provinsi&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;kabupaten&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;kecamatan&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;alamat&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;kode_pos&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
           <mxGeometry x="700" y="380" width="150" height="220" as="geometry" />
@@ -37,12 +37,12 @@
         <mxCell id="2ed32ef02a7f4228-11" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;pemesanan&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;id_pemesanan&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;id_member&lt;br&gt;tgl_pemesanan&lt;br&gt;jumlah_pemesanan&lt;br&gt;total_pemesanan&lt;br&gt;ongkir&lt;br&gt;paket_kurir&lt;br&gt;nama_penerima&lt;br&gt;telp&lt;br&gt;provinsi&lt;br&gt;kabupaten&lt;br&gt;alamat&lt;br&gt;no_resi&lt;br&gt;kode_pos&lt;br&gt;status_pemesanan&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
           <mxGeometry x="700" y="100" width="150" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="2ed32ef02a7f4228-13" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=ERone;startArrow=ERmandOne;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;align=left;endFill=0;startFill=0;entryX=-0.015;entryY=0.353;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="2ed32ef02a7f4228-8" edge="1">
+        <mxCell id="2ed32ef02a7f4228-13" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=ERone;startArrow=ERmandOne;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;align=left;endFill=0;startFill=0;" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="410" y="130" as="sourcePoint" />
-            <mxPoint x="460" y="350" as="targetPoint" />
+            <mxPoint x="410" y="126" as="sourcePoint" />
+            <mxPoint x="468" y="350" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="440" y="130" />
+              <mxPoint x="440" y="126" />
               <mxPoint x="440" y="350" />
             </Array>
           </mxGeometry>
@@ -50,17 +50,18 @@
         <mxCell id="a0rYY1OVkHwk5McfG7WV-2" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;artikel&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;id_artikel&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;judul_artikel&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;isi_artikel&lt;br&gt;foto_artikel&lt;br&gt;waktu_post&lt;br&gt;id_admin&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
           <mxGeometry x="410" y="490" width="100" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="a0rYY1OVkHwk5McfG7WV-4" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;startArrow=ERone;endArrow=ERone;fontFamily=Verdana;fontSize=12;align=left;endFill=0;startFill=0;entryX=-0.009;entryY=0.098;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.995;exitY=0.269;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="2ed32ef02a7f4228-2" target="2ed32ef02a7f4228-11" edge="1">
+        <mxCell id="a0rYY1OVkHwk5McfG7WV-4" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;startArrow=ERone;endArrow=ERone;fontFamily=Verdana;fontSize=12;align=left;endFill=0;startFill=0;entryX=-0.009;entryY=0.098;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="2ed32ef02a7f4228-11" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="610" y="141" as="sourcePoint" />
+            <mxPoint x="610" y="140" as="sourcePoint" />
             <mxPoint x="670" y="124" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="640" y="146" />
+              <mxPoint x="599" y="140" />
+              <mxPoint x="640" y="140" />
               <mxPoint x="640" y="125" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="a0rYY1OVkHwk5McfG7WV-5" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;startArrow=ERmandOne;endArrow=ERone;fontFamily=Verdana;fontSize=12;align=left;entryX=1;entryY=0.132;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" parent="1" source="2ed32ef02a7f4228-11" target="2ed32ef02a7f4228-10" edge="1">
+        <mxCell id="a0rYY1OVkHwk5McfG7WV-5" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;startArrow=ERone;endArrow=ERone;fontFamily=Verdana;fontSize=12;align=left;entryX=1;entryY=0.132;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;startFill=0;" parent="1" source="2ed32ef02a7f4228-11" target="2ed32ef02a7f4228-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="900" y="190" as="sourcePoint" />
             <mxPoint x="900" y="408.95000000000005" as="targetPoint" />
@@ -115,13 +116,14 @@
             <mxPoint x="430" y="372.2" as="targetPoint" />
             <Array as="points">
               <mxPoint x="430" y="275" />
-              <mxPoint x="430" y="318" />
+              <mxPoint x="430" y="320" />
+              <mxPoint x="460" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="a1VMklXqkqY8Pn-3ZVya-2" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;startArrow=ERmandOne;endArrow=ERone;fontFamily=Verdana;fontSize=12;align=left;endFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=-0.009;exitY=0.449;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="2ed32ef02a7f4228-8" target="2ed32ef02a7f4228-3" edge="1">
+        <mxCell id="a1VMklXqkqY8Pn-3ZVya-2" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;startArrow=ERmandOne;endArrow=ERone;fontFamily=Verdana;fontSize=12;align=left;endFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="2ed32ef02a7f4228-3" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="470" y="359" as="sourcePoint" />
+            <mxPoint x="469" y="366" as="sourcePoint" />
             <mxPoint x="400" y="460" as="targetPoint" />
             <Array as="points">
               <mxPoint x="450" y="366" />
@@ -132,7 +134,7 @@
         <mxCell id="a1VMklXqkqY8Pn-3ZVya-3" value="&lt;font style=&quot;font-size: 10px&quot;&gt;FK&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="410" y="590" width="20" as="geometry" />
         </mxCell>
-        <mxCell id="a1VMklXqkqY8Pn-3ZVya-4" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;startArrow=ERmandOne;endArrow=ERone;fontFamily=Verdana;fontSize=12;align=left;endFill=0;startFill=0;" parent="1" edge="1">
+        <mxCell id="a1VMklXqkqY8Pn-3ZVya-4" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;startArrow=ERone;endArrow=ERmandOne;fontFamily=Verdana;fontSize=12;align=left;endFill=0;startFill=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="390" y="530" as="sourcePoint" />
             <mxPoint x="410" y="590" as="targetPoint" />
